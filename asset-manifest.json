@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ekivoka/SMIT-test/static/css/main.cada2df4.chunk.css",
+    "main.js": "/ekivoka/SMIT-test/static/js/main.c00ca870.chunk.js",
+    "main.js.map": "/ekivoka/SMIT-test/static/js/main.c00ca870.chunk.js.map",
+    "runtime-main.js": "/ekivoka/SMIT-test/static/js/runtime-main.53ef7554.js",
+    "runtime-main.js.map": "/ekivoka/SMIT-test/static/js/runtime-main.53ef7554.js.map",
+    "static/js/2.24d87e08.chunk.js": "/ekivoka/SMIT-test/static/js/2.24d87e08.chunk.js",
+    "static/js/2.24d87e08.chunk.js.map": "/ekivoka/SMIT-test/static/js/2.24d87e08.chunk.js.map",
+    "index.html": "/ekivoka/SMIT-test/index.html",
+    "precache-manifest.8b6951cbd4e3e0309aae226477dd2fc7.js": "/ekivoka/SMIT-test/precache-manifest.8b6951cbd4e3e0309aae226477dd2fc7.js",
+    "service-worker.js": "/ekivoka/SMIT-test/service-worker.js",
+    "static/css/main.cada2df4.chunk.css.map": "/ekivoka/SMIT-test/static/css/main.cada2df4.chunk.css.map",
+    "static/js/2.24d87e08.chunk.js.LICENSE.txt": "/ekivoka/SMIT-test/static/js/2.24d87e08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53ef7554.js",
+    "static/js/2.24d87e08.chunk.js",
+    "static/css/main.cada2df4.chunk.css",
+    "static/js/main.c00ca870.chunk.js"
+  ]
+}
